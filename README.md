@@ -1,3 +1,7 @@
+SnipeptBucket.com
+=================
+Author: Tejas Tank
+
 openerp-disable-apps
 ====================
 
@@ -18,3 +22,7 @@ Also you can directly enjoy your local module from your own server.
 
 
 Right way to use OpenERP, Just install this module.
+
+
+
+
